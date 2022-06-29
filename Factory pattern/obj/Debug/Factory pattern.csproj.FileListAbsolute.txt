@@ -1,0 +1,11 @@
+E:\Audio Project\Factory pattern\Factory pattern\obj\Debug\Factory pattern.csproj.AssemblyReference.cache
+E:\Audio Project\Factory pattern\Factory pattern\obj\Debug\Factory pattern.csproj.SuggestedBindingRedirects.cache
+E:\Audio Project\Factory pattern\Factory pattern\obj\Debug\Factory pattern.csproj.CoreCompileInputs.cache
+E:\Audio Project\Factory pattern\Factory pattern\bin\Debug\Factory pattern.exe.config
+E:\Audio Project\Factory pattern\Factory pattern\bin\Debug\Factory pattern.exe
+E:\Audio Project\Factory pattern\Factory pattern\bin\Debug\Factory pattern.pdb
+E:\Audio Project\Factory pattern\Factory pattern\bin\Debug\WebDriver.dll
+E:\Audio Project\Factory pattern\Factory pattern\bin\Debug\WebDriver.Support.dll
+E:\Audio Project\Factory pattern\Factory pattern\obj\Debug\Factory pattern.csproj.CopyComplete
+E:\Audio Project\Factory pattern\Factory pattern\obj\Debug\Factory pattern.exe
+E:\Audio Project\Factory pattern\Factory pattern\obj\Debug\Factory pattern.pdb
